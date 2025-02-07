@@ -1,27 +1,11 @@
-<<<<<<< HEAD
-
-=======
->>>>>>> 301e315 (added it)
 .navbar{
     background-color: #fff;
     height: 80px;
     margin: 20px;
     border-radius: 16px;
     padding: 0.5rem;
-<<<<<<< HEAD
-
 }
 
-
-
-
-
-
-
-=======
-}
-
->>>>>>> 301e315 (added it)
 .login-button
 {
     background-color: #009978;
@@ -41,10 +25,6 @@
 {
     border: none;
     font-size: 1.25 rem;
-<<<<<<< HEAD
-
-=======
->>>>>>> 301e315 (added it)
 }
 
 .navbar-toggler:focus, .btn-close:focus
@@ -63,10 +43,6 @@
 .nav-link:hover, .nav-link.active
 {
     color: #000;
-<<<<<<< HEAD
-
-=======
->>>>>>> 301e315 (added it)
 }
 
 @media(min-width: 991px){
@@ -92,10 +68,6 @@
 
 }
 
-<<<<<<< HEAD
-
-=======
->>>>>>> 301e315 (added it)
 .navbar-brand
 {
     font-weight: 500;
@@ -121,10 +93,6 @@
     right: 0;
     bottom: 0;
     left: 0;
-<<<<<<< HEAD
-
-=======
->>>>>>> 301e315 (added it)
 }
 
 .hero-section .container
@@ -143,48 +111,6 @@
 {
     font-size: 1.2em;
 }
-
-<<<<<<< HEAD
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-=======
 .modal-content {
     border-radius: 12px; /* Make the modal corners rounded */
 }
@@ -231,4 +157,3 @@
 .text-center a:hover {
     text-decoration: underline; /* Underline on hover */
 }
->>>>>>> 301e315 (added it)
