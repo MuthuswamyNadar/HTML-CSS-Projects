@@ -1,10 +1,14 @@
+<<<<<<< HEAD
 
+=======
+>>>>>>> 301e315 (added it)
 .navbar{
     background-color: #fff;
     height: 80px;
     margin: 20px;
     border-radius: 16px;
     padding: 0.5rem;
+<<<<<<< HEAD
 
 }
 
@@ -14,6 +18,10 @@
 
 
 
+=======
+}
+
+>>>>>>> 301e315 (added it)
 .login-button
 {
     background-color: #009978;
@@ -33,7 +41,10 @@
 {
     border: none;
     font-size: 1.25 rem;
+<<<<<<< HEAD
 
+=======
+>>>>>>> 301e315 (added it)
 }
 
 .navbar-toggler:focus, .btn-close:focus
@@ -52,7 +63,10 @@
 .nav-link:hover, .nav-link.active
 {
     color: #000;
+<<<<<<< HEAD
 
+=======
+>>>>>>> 301e315 (added it)
 }
 
 @media(min-width: 991px){
@@ -78,7 +92,10 @@
 
 }
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 301e315 (added it)
 .navbar-brand
 {
     font-weight: 500;
@@ -104,7 +121,10 @@
     right: 0;
     bottom: 0;
     left: 0;
+<<<<<<< HEAD
 
+=======
+>>>>>>> 301e315 (added it)
 }
 
 .hero-section .container
@@ -124,6 +144,7 @@
     font-size: 1.2em;
 }
 
+<<<<<<< HEAD
 
 
 
@@ -163,3 +184,51 @@
 
 
 
+=======
+.modal-content {
+    border-radius: 12px; /* Make the modal corners rounded */
+}
+
+.modal-header {
+    background-color: #009970; /* Header background color */
+    color: white; /* Header text color */
+}
+
+.modal-title {
+    font-weight: bold;
+}
+
+.modal-body {
+    padding: 2rem; /* Add padding to the modal body */
+}
+
+.form-control {
+    border-radius: 8px; /* Rounded corners for input fields */
+    border: 1px solid #ced4da; /* Base border color */
+    transition: border-color 0.3s; /* Transition effect on focus */
+}
+
+.form-control:focus {
+    border-color: #00b383; /* Change border color on focus */
+    box-shadow: 0 0 5px rgba(0, 183, 131, 0.5); /* Add shadow effect */
+}
+
+.btn-primary {
+    background-color: #009970;
+    border: none;
+    border-radius: 50px; /* Rounded button */
+    transition: background-color 0.3s; /* Transition effect for button */
+}
+
+.btn-primary:hover {
+    background-color: #00b383; /* Button color on hover */
+}
+
+.text-center a {
+    text-decoration: none; /* Remove underline from the link */
+}
+
+.text-center a:hover {
+    text-decoration: underline; /* Underline on hover */
+}
+>>>>>>> 301e315 (added it)
