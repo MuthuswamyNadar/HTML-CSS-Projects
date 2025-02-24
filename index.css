@@ -1,0 +1,53 @@
+/* General Styling */
+body {
+    font-family: 'Arial', sans-serif;
+    scroll-behavior: smooth;
+}
+
+/* Hero Section */
+.hero {
+    background: linear-gradient(to bottom, #337ab7, #23527c);
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: white;
+}
+
+/* Section Styling */
+section {
+    padding: 60px 20px;
+}
+
+/* Cards */
+.card {
+    border-radius: 10px;
+    transition: 0.3s ease-in-out;
+}
+
+.card:hover {
+    transform: scale(1.05);
+}
+
+/* Navbar Links */
+.navbar-nav .nav-link {
+    font-size: 18px;
+    color: white !important;
+}
+
+.navbar-nav .nav-link:hover {
+    text-decoration: underline;
+}
+
+/* Form Styling */
+form {
+    background: #f8f9fa;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+/* Footer */
+footer {
+    margin-top: 50px;
+}
